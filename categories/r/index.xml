@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Universal</title>
+    <link>/categories/r/</link>
+    <description>Recent content in R on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Membuat Diagram Pareto dengan R</title>
+      <link>/blog/2018/08/18/2018-08-18-q7-pareto/</link>
+      <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/08/18/2018-08-18-q7-pareto/</guid>
+      <description>Pareto Chart / Diagram ParetoDi posting ini kita akan diperkenalkan dengan diagram Pareto atau kadangdisebut ‘Pareto Chart’. Perkenalan ini akan menjelaskan tentang:
+Riwayat dan latar belakangBagaimana membuat secara manualBagaimana membuat dengan fasilitas dari bahasa program R.Bagaimana menyimpulkan hasil yang didapat dari diagram ini.ContohSebagai contoh, berikut ini adalah data yang dikumpulkan dari prosespengecatan panel mobil. Berdasarkan desain, proses ini mungkinmengalami cacat / defect yang dikelompokan sebagai berikut:“Strain”,“Scratch”,“Pinhole”,“Crack”,“Stain”,“Gap”,“Others”.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/blog/2015/07/23/using-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/2015/07/23/using-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+  </channel>
+</rss>
